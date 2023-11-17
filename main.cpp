@@ -1,7 +1,5 @@
 /* Name: Nathan Lindblade
 Date: April 21, 2023
-Assignment: Final Homework Assignment 
-Due Date: April 28, 2023
 About this project: Simulates a Pokemon-GO-like game
 Assumptions: User will only hunt in a region that exists in the file
 
